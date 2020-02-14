@@ -15,6 +15,7 @@
 		1B7398E023F0C9D800758DF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B7398DF23F0C9D800758DF8 /* Assets.xcassets */; };
 		1B7398E323F0C9D800758DF8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B7398E223F0C9D800758DF8 /* Preview Assets.xcassets */; };
 		1B7398E623F0C9D800758DF8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B7398E423F0C9D800758DF8 /* LaunchScreen.storyboard */; };
+		1B7B47A623F64BAE00BBF8BB /* UpdateDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B7B47A523F64BAE00BBF8BB /* UpdateDetail.swift */; };
 		1BAC5F5923F458DE00BD60C5 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BAC5F5823F458DE00BD60C5 /* MenuView.swift */; };
 		1BDE8A3A23F5DCE5002222BB /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BDE8A3923F5DCE5002222BB /* HomeView.swift */; };
 /* End PBXBuildFile section */
@@ -30,6 +31,7 @@
 		1B7398E223F0C9D800758DF8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1B7398E523F0C9D800758DF8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B7398E723F0C9D800758DF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1B7B47A523F64BAE00BBF8BB /* UpdateDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateDetail.swift; sourceTree = "<group>"; };
 		1BAC5F5823F458DE00BD60C5 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 		1BDE8A3923F5DCE5002222BB /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -71,6 +73,7 @@
 				1BDE8A3923F5DCE5002222BB /* HomeView.swift */,
 				1BAC5F5823F458DE00BD60C5 /* MenuView.swift */,
 				1B0A4DE923F63E2A0028479A /* UpdateList.swift */,
+				1B7B47A523F64BAE00BBF8BB /* UpdateDetail.swift */,
 				1B7398DF23F0C9D800758DF8 /* Assets.xcassets */,
 				1B7398E423F0C9D800758DF8 /* LaunchScreen.storyboard */,
 				1B7398E723F0C9D800758DF8 /* Info.plist */,
@@ -161,6 +164,7 @@
 				1B7398DA23F0C9D300758DF8 /* AppDelegate.swift in Sources */,
 				1B0A4DEA23F63E2A0028479A /* UpdateList.swift in Sources */,
 				1BAC5F5923F458DE00BD60C5 /* MenuView.swift in Sources */,
+				1B7B47A623F64BAE00BBF8BB /* UpdateDetail.swift in Sources */,
 				1B530FE923F4A1CC00DC8104 /* Home.swift in Sources */,
 				1BDE8A3A23F5DCE5002222BB /* HomeView.swift in Sources */,
 				1B7398DC23F0C9D300758DF8 /* SceneDelegate.swift in Sources */,
